@@ -26,14 +26,14 @@ A role-based Inventory and billing management system built in C++ using OOP, usi
 4. Default SuperAdmin credentials are in the docs.
 
 ## Project Structure
-
+```
 StockFlow/
 ├── main.cpp
 ├── Inventory.dat
 ├── Credentials.dat
 ├── Receipt.txt
 └── README.md
-
+```
 ## Author
 
 Basit Ahmad.
