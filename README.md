@@ -23,7 +23,7 @@ A role-based Inventory and billing management system built in C++ using OOP, usi
 1. Clone the repository.
 2. Open in your IDE (Dev C++ / Code::Blocks / VS). Suggested : (Embarcadero Dev-C++)
 3. Compile and Run.
-4. Default SuperAdmin credentials are in the docs.
+4. Default Controller credentials are Given at the End.
 
 ## Project Structure
 ```
@@ -35,7 +35,22 @@ StockFlow/
 └── README.md
 ```
 ## Author
-
+```
 Basit Ahmad.
 2nd Semester — BS Computer Science
 Goverment College University Faislabad.
+```
+## Credentials
+
+> Employee  : 
+    Username - Employee
+    Password - Emp1
+> Admin     :
+    Username - Basit Ahmad
+    Password - Basit0328
+> Controller:
+    Username - ......
+    Password - 123456
+
+## End Note
+ I am Student. I am trying to learn. So, any suggestions are Gladly Accepted.
