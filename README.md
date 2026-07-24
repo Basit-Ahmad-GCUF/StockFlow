@@ -34,12 +34,13 @@ StockFlow/
 ├── Receipt.txt
 └── README.md
 ```
-## Author
-```
-Basit Ahmad.
-2nd Semester — BS Computer Science
-Goverment College University Faislabad.
-```
+---
+# Coming Soon
+
+> A Professional GUI Look to the project using WxWidgets.
+> A Professional Database attachment to project using SQL.
+---
+
 ## Credentials
 ```
 > Employee  : 
@@ -54,3 +55,7 @@ Goverment College University Faislabad.
 ```
 ## End Note
  I am Student. I am trying to learn. So, any suggestions are Gladly Accepted.
+
+## Author
+**Basit Ahmad** — CS Student at GCUF  
+[GitHub](https://github.com/Basit-Ahmad-GCUF) • [LinkedIn](https://www.linkedin.com/in/basit-ahmad-gcuf)
